@@ -33,22 +33,20 @@ Built with **Flutter** and designed with simplicity, security, and clarity in mi
 
 ## 📱 Screenshots
 
-> _Screenshots will be added here_
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e77f0523-1338-45c9-b981-6f81759fbb58" width="220" />
+  <img src="https://github.com/user-attachments/assets/ac548ecc-d2d8-4234-8be7-b4aa6bbe997b" width="220" />
+  <img src="https://github.com/user-attachments/assets/f8b539ab-5ca8-4ed6-a701-c532f0ac0949" width="220" />
+</p>
 
-<!--  
-Add screenshots like this when ready:
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/928ee25c-0a80-4864-aac7-183b4967c248" width="220" />
+  <img src="https://github.com/user-attachments/assets/dab03eff-bdcf-4f87-9dd6-4204cb77f23e" width="220" />
+</p>
 
-![Welcome Screen](<img width="1080" height="2400" alt="Screenshot_20260206_200802" src="https://github.com/user-attachments/assets/e77f0523-1338-45c9-b981-6f81759fbb58" />
-)
-![PIN Setup](<img width="1080" height="2400" alt="Screenshot_20260206_200832" src="https://github.com/user-attachments/assets/ac548ecc-d2d8-4234-8be7-b4aa6bbe997b" />
-)
-![Home Screen](<img width="1080" height="2400" alt="Screenshot_20260206_201006" src="https://github.com/user-attachments/assets/f8b539ab-5ca8-4ed6-a701-c532f0ac0949" />
-)
-![Add Password](<img width="1080" height="2400" alt="Screenshot_20260206_200956" src="https://github.com/user-attachments/assets/928ee25c-0a80-4864-aac7-183b4967c248" />
-)
-![Settings](<img width="1080" height="2400" alt="Screenshot_20260206_201016" src="https://github.com/user-attachments/assets/dab03eff-bdcf-4f87-9dd6-4204cb77f23e" />
-)
--->
+<p align="center">
+  <em>Welcome • PIN Setup • Home • Add Password • Settings</em>
+</p>
 
 ---
 
@@ -74,7 +72,7 @@ Add screenshots like this when ready:
 ## 📦 Installation
 
 1. Download the latest APK from the **Releases** section.
-2. Enable **Install unknown apps** on your device.
+2. Enable **Install unknown apps** on your Android device.
 3. Install and use completely offline.
 
 ---
@@ -82,7 +80,7 @@ Add screenshots like this when ready:
 ## 📜 Terms & Conditions
 
 By using PassKey, you agree that all data is stored locally on your device and is unrecoverable if the PIN is lost.  
-The app is provided **“as is”** without warranties.  
+The app is provided **“as is”** without warranties of any kind.  
 See the in-app **Terms & Conditions** for full details.
 
 ---
