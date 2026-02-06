@@ -38,11 +38,16 @@ Built with **Flutter** and designed with simplicity, security, and clarity in mi
 <!--  
 Add screenshots like this when ready:
 
-![Welcome Screen](screenshots/welcome.png)
-![PIN Setup](screenshots/pin_setup.png)
-![Home Screen](screenshots/home.png)
-![Add Password](screenshots/add_password.png)
-![Settings](screenshots/settings.png)
+![Welcome Screen](<img width="1080" height="2400" alt="Screenshot_20260206_200802" src="https://github.com/user-attachments/assets/e77f0523-1338-45c9-b981-6f81759fbb58" />
+)
+![PIN Setup](<img width="1080" height="2400" alt="Screenshot_20260206_200832" src="https://github.com/user-attachments/assets/ac548ecc-d2d8-4234-8be7-b4aa6bbe997b" />
+)
+![Home Screen](<img width="1080" height="2400" alt="Screenshot_20260206_201006" src="https://github.com/user-attachments/assets/f8b539ab-5ca8-4ed6-a701-c532f0ac0949" />
+)
+![Add Password](<img width="1080" height="2400" alt="Screenshot_20260206_200956" src="https://github.com/user-attachments/assets/928ee25c-0a80-4864-aac7-183b4967c248" />
+)
+![Settings](<img width="1080" height="2400" alt="Screenshot_20260206_201016" src="https://github.com/user-attachments/assets/dab03eff-bdcf-4f87-9dd6-4204cb77f23e" />
+)
 -->
 
 ---
